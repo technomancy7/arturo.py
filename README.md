@@ -3,9 +3,9 @@ A simple wrapper around the arturo scripting language.
 Requires the arturo binary to be findable in PATH.
 
 ## todo
-[ ] python function calling from arturo
-[ ] functions to extend the base template programatically
-[ ] ???
+- [ ] python function calling from arturo
+- [ ] functions to extend the base template programatically
+- [ ] ???
 
 ## example
 ```py
