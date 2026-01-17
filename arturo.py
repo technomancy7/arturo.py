@@ -105,10 +105,6 @@ class Arturo:
 
         Returns:
             str: The standard output of the binary.
-
-        Raises:
-            FileNotFoundError: If the self.executable does not exist.
-            subprocess.CalledProcessError: If the binary returns a non-zero exit code.
         """
         if args is None:
             args = []
