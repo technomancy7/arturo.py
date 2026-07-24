@@ -1,5 +1,5 @@
 # arturo.py
-A simple wrapper around the arturo scripting language.
+A concept simple wrapper around the arturo scripting language. Just an experimental idea, nothing concrete yet.
 Requires the arturo binary to be findable in PATH.
 
 ## todo
